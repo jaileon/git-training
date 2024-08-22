@@ -1,0 +1,2 @@
+name: Generate Potcast Feeds
+on: [push]
